@@ -30,3 +30,9 @@ vagrant up <br/>
    gitlab-runner register <br/>
    apt-get install -y docker.io <br/>
    gitlab-runner start <br/>
+# Задание 2.
+1. Создание файла .gitlab-ci.yml
+![image](https://github.com/user-attachments/assets/0efe5ebf-3045-40b0-a34b-534311da15df)
+2. Проверка сборки в GitLab
+![image](https://github.com/user-attachments/assets/20110d9e-f282-48b6-b7d8-76edffba21e0)
+
