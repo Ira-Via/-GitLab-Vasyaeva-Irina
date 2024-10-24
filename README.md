@@ -3,8 +3,8 @@
 # Задание 1.
 ## Разворачивание GitLab с помощью Vagrant <br/>
 1. Создание директорию для проекта <br/>
-   - mkdir gitlab-vagrant <br/>
-   - cd gitlab-vagrant <br/>
+mkdir gitlab-vagrant <br/>
+cd gitlab-vagrant <br/>
 2. Создание файла Vagrantfile <br/>
 Vagrant.configure("2") do |config| <br/>
 config.vm.box = "ubuntu/bionic64" <br/>
